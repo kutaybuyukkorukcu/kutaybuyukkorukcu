@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Back to coding after 2 month break. Burnout is real :)
+
 <!--
 **kutaybuyukkorukcu/kutaybuyukkorukcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
