@@ -19,12 +19,11 @@ Hey! My name is Kutay, experienced senior software engineer with over 4 years in
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=FEFEFE)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=FEFEFE)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Redux Saga](https://img.shields.io/badge/-Reduxsaga-05122A?style=flat&logo=reduxsaga)&nbsp;
 ![Redux Toolkit](https://img.shields.io/badge/-Reduxtoolkit-05122A?style=flat&logo=reduxtoolkit)&nbsp;
 ![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=Zustand)&nbsp;
 ![React Query](https://img.shields.io/badge/-Reactquery-05122A?style=flat&logo=reactquery)&nbsp;
 ![RxJS](https://img.shields.io/badge/-RxJS-05122A?style=flat&logo=rxjs)&nbsp;
-![Ngrx](https://img.shields.io/badge/-Ngrx-05122A?style=flat&logo=ngrx)&nbsp;
+![Ngxs](https://img.shields.io/badge/-Ngxs-05122A?style=flat&logo=ngxs)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=flat&logo=apollo)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)&nbsp;
