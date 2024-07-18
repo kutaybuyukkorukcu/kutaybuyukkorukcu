@@ -47,7 +47,6 @@ Hey! My name is Kutay, experienced senior software engineer with over 4 years in
 ![Material](https://img.shields.io/badge/-Material-05122A?style=flat&logo=Material)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Nodemon](https://img.shields.io/badge/-Nodemon-05122A?style=flat&logo=Nodemon)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAi-05122A?style=flat&logo=OpenAI)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=Claude)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
